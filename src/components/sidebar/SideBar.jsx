@@ -4,14 +4,16 @@ function SideBar() {
   return (
     <div className='sidebar'>
       <div className="sidebarItem">
-        <span className="sidebarTitle">ABOUT ME</span> 
+        <span className="sidebarTitle">ABOUT US</span> 
         <img
-          src="https://i.pinimg.com/236x/1e/3f/58/1e3f587572a7a7b20bbf1828595a1786--holiday-party-themes-holiday-gift-guide.jpg"
+          src="https://i.postimg.cc/Y9DTR9MK/image-search-1651442834697.gif"
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+        <b> We Just Make Awesome Content For You!</b><br />
+        We makes sure our soul reaches you in the form of articles,
+        and our design team that aims to reach your heart rather than eyes and so many more unsung individuals at the with only one thought in their mind,
+        to make awesome content for you.
         </p>
       </div>
       <div className="sidebarItem">
